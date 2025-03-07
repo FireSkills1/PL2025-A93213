@@ -1,5 +1,8 @@
-# Laboratórios de Informática III (2024/2025)
+# TPC3
 
-* Manuel Vasconcelos Amaral dos Santos Fernandes- A93213 - FireSkills1
-* Tomás Furtado Botelho Machado - A104186 - M4chad0
-* Francisco Queiros Ribeiro da Costa Maia- A108962 - Francisco-Maia05
+![foto perfil](/images/A93213.jpg)
+
+## Autor:
+Manuel Vasconces Amaral dos Santos Fernandes(A93213)
+
+O Markdown to HTML Converter é um programa  que transforma arquivos de texto no formato Markdown (.md) em documentos HTML (.html). Ele funciona lendo o conteúdo do arquivo Markdown, aplicando substituições, usando expressões regulares e gerando uma saída em HTML bem estruturada. O programa é capaz de lidar com diversos elementos do Markdown, como cabeçalhos, listas ordenadas e não ordenadas, imagens, links, regras horizontais, texto em negrito e itálico, código em linha e parágrafos comuns. Para garantir segurança, o programa também escapa tags HTML não desejadas, evitando possíveis injeções de código. No final, o arquivo HTML gerado é salvo no mesmo diretório do arquivo original, pronto para ser visualizado em qualquer navegador.
